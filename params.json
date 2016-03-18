@@ -1,0 +1,6 @@
+{
+  "name": "Zhoujianfeng.GitHub.io",
+  "tagline": "Zhou Jianfeng Pages|周剑锋个人主页",
+  "body": "# # #欢迎GitHub页面。\r\n这个自动页面生成器是为您的所有项目创建漂亮的页面的最简单的方法。作者您的网页内容在这里[使用GitHub味降价]（https：／／指南。GitHub。COM /功能/掌握降价/），选择一个模板的设计制作，并发布。在您的页面生成后，您可以在本地检查新的“生长激素”页面。如果你使用GitHub的桌面，简单地同步你的库，你会看到新的分支。\r\n# # #设计师模板\r\n我们已经制作了一些漂亮的模板供你使用。向前走，然后按“继续布局”浏览通过。在发布前，您可以轻松地返回编辑页面。发布您的页面后，您可以重新访问该页面生成器并切换到另一个主题。您的网页内容将被保存。\r\n# # #创建的页面手动\r\n如果您更喜欢不使用自动生成器，请将一个分支命名为“生长激素”页到您的存储库，手动创建一个页面。除了支持常规的HTML内容，GitHub页面支持博士，一个简单的了解，博客网站静态生成器。杰基尔使得它很容易创建站点范围的页眉和页脚没有复制到每一页。它还提供了智能的博客支持和其他先进的模板功能。\r\n# # #作者和贡献者\r\n你可以生成一个链接到他们的简介说GitHub的用户名。由此产生的` <一> `元将链接到作者GitHub的轮廓。例如：2007、克里斯Wanstrath（@ defunkt）、PJ Hyett（@ pjhyett），汤姆Preston沃纳（@ mojombo）创办GitHub。\r\n# # #支持或联系\r\n有麻烦吗？看看我们的[文件]（https://help.github.com/pages）或[接触]（支持https://github.com/contact），我们会帮你整理。",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
